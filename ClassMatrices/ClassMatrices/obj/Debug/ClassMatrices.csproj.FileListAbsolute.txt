@@ -1,0 +1,5 @@
+C:\Users\pacoalex\Desktop\Nueva carpeta\UTT\C#\WindowsForms\DeMatematicas\Matrizes\ClassMatrices\ClassMatrices\bin\Debug\ClassMatrices.dll
+C:\Users\pacoalex\Desktop\Nueva carpeta\UTT\C#\WindowsForms\DeMatematicas\Matrizes\ClassMatrices\ClassMatrices\bin\Debug\ClassMatrices.pdb
+C:\Users\pacoalex\Desktop\Nueva carpeta\UTT\C#\WindowsForms\DeMatematicas\Matrizes\ClassMatrices\ClassMatrices\obj\Debug\ClassMatrices.csprojResolveAssemblyReference.cache
+C:\Users\pacoalex\Desktop\Nueva carpeta\UTT\C#\WindowsForms\DeMatematicas\Matrizes\ClassMatrices\ClassMatrices\obj\Debug\ClassMatrices.dll
+C:\Users\pacoalex\Desktop\Nueva carpeta\UTT\C#\WindowsForms\DeMatematicas\Matrizes\ClassMatrices\ClassMatrices\obj\Debug\ClassMatrices.pdb
